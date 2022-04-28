@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theck3
 - 👀 I’m interested in aviation, programming, video games, etc.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing right now lol
+- 🌱 I’m currently learning python, html, css, and js
+- 💞️ I’m looking to collaborate on nothing right now, still learning.
 - 📫 How to reach me ...
 
 <!---
